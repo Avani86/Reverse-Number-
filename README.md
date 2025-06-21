@@ -11,8 +11,8 @@ This is a beginner-level Python program that takes a number from the user and pr
 - Prints the reversed number
 
 Example:
-Input = 3647
-Output= 7463
+```Input = 3647`
+Output= 7463```
 
 ---
 
